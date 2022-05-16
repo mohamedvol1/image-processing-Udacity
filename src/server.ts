@@ -6,7 +6,7 @@ const PORT = 3000;
 
 app.use(imagesRoute);
 app.listen(PORT, () => {
-	console.log(`listening to port ${PORT}`);
+  console.log(`listening to port ${PORT}`);
 });
 
 export { app };
