@@ -6,7 +6,10 @@ an simple endpoint resize your image and save the new one on your machine
 In the project directory, run this command to install dependencies:
 ### `npm install`
 
-then you can run this command to start the nodemone server:
+to build the typescript file run:
+### `npm run build`
+
+or you can simply run this command to buid then start the nodemone server:
 
 ### `npm start`
 
