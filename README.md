@@ -27,6 +27,6 @@ and for testing run this:
 
 
 Notes:- 
-  - You have to make sure there is an image with name `test.png` in assets directory to make sure the endpoint test pass
-  - all images should be with the extension `.png`
+  - You have to make sure there is an image with name `test.jpg` in assets directory to make sure the endpoint test pass
+  - all images should be with the extension `.jpg`
 
